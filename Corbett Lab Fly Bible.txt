@@ -1,0 +1,55 @@
+﻿Corbett Lab Fly Bible
+
+
+Supplies  (Part #)
+Fly Vials (AS516)
+Fly Bottles (75813-108 (CS))
+Cotton Balls (10030-840 (CS))
+Carbon Dioxide Cylinders (CD 50)
+Powdered Agar (BP14232)
+Propionic Acid (A258500)
+Bottle Plugs (89168-890 (CS))
+Vial Plugs (59-200)
+
+
+Ordering Corn Syrup, Corn Meal, and Yeast: 
+
+
+Richnall Corn Meal YLW R I A (457450)
+Karo Syrup Corn Light Red L (31969)
+Flishman Yeast Dry Active TFF (32111)
+
+
+These are the items that can be ordered from Performance Foodservice through the “non-catalog goods” section of the CruzBuy interface.
+
+Making Fly Food - see separate protocol
+
+
+Fly care cycle:
+
+Fly stocks are kept in vials in the stock repository or in vials or bottles in working areas for ongoing projects and experiments. Fly stocks need to be “flipped out” once every 4 weeks to ensure that their food stays fresh and mold does not take over the vial environment. 
+
+
+“Flipping out” a fly vial entails the following steps:
+
+1. Tap the bottom of the vial firmly 1-5 times on one of the mouse pads or cushions (to avoid cracking or breaking the tubes). Make sure flies are tapped to the bottom of the vial, away from the plug. 
+
+2. Quickly remove the plug, and then place the opening of the vial flush against the opening of another identical vial, with the old vial on top. 
+
+
+3. Tap the bottom of the new vial firmly against the pad to drive all of the adult flies into the new vial and quickly cap it. 
+
+
+4. Cap or plug your old vial, even if it is being discarded - otherwise flies may emerge from the waste bin to trouble the laboratory. 
+
+(This process more or less translates perfectly to the use of bottles as well)
+
+For the purposes of fly stocks, flipping should be done during flip weeks to ensure that all fly vials are free of mold and not dried out. Sometimes flipping out both vials will be necessary, other times only one. Unless the stock has been replaced in the recent past, always flip out at least one vial. 
+
+Stocks for which two healthy vials cannot be maintained at the present time should be placed in the Fly Hospital. 
+
+At all times fly stocks need to have their labels with them. 
+
+Fly Hospital
+
+Fly stocks placed in the Fly Hospital are those that are in danger of dying out. *At the minimum*, Stocks in the hospital should be flipped out every Monday and Friday. Once there are two vials that are confirmed to have healthy larvae (look at them closely), they can be sorted back into the regular stock.
