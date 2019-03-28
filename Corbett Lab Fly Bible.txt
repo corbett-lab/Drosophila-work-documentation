@@ -20,7 +20,7 @@ Karo Syrup Corn Light Red L (31969)
 Flishman Yeast Dry Active TFF (32111)
 
 
-These are the items that can be ordered from Performance Foodservice through the “non-catalog goods” section of the CruzBuy interface.
+These are the items that can be ordered from PFG Miltons through the “non-catalog goods” section of the CruzBuy interface.
 
 Making Fly Food - see separate protocol
 
