@@ -44,7 +44,7 @@ Fly stocks are kept in vials in the stock repository or in vials or bottles in w
 
 (This process more or less translates perfectly to the use of bottles as well)
 
-For the purposes of fly stocks, flipping should be done during flip weeks to ensure that all fly vials are free of mold and not dried out. Sometimes flipping out both vials will be necessary, other times only one. Unless the stock has been replaced in the recent past, always flip out at least one vial. 
+For the purposes of fly stocks, flipping should be done during flip weeks to ensure that all fly vials are free of mold and not dried out. Sometimes flipping out both vials will be necessary, other times only one. Unless the stock has been replaced in the last few days, always flip out at least one vial. 
 
 Stocks for which two healthy vials cannot be maintained at the present time should be placed in the Fly Hospital. 
 
